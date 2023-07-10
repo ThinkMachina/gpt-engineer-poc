@@ -1,0 +1,4 @@
+# Python Files
+.venv
+workspace/env
+__pycache__
